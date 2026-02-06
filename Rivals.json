@@ -48,5 +48,15 @@
       "BR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Yellow/BottomRight.png",
       "BL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Yellow/BottomLeft.png"
     }
+  },
+  "Sniper Glare": {
+    "Blue":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/EDITS/Blue.png",
+    "Cyan":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/EDITS/Cyan.png",
+    "Cyan":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/EDITS/Green.png",
+    "Orange":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/EDITS/Orange.png",
+    "Purple":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/EDITS/Purple.png",
+    "Red":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/EDITS/Red.png",
+    "Yellow":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/EDITS/Yellow.png"
   }
 }
+
