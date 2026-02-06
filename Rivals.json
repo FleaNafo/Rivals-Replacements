@@ -1,52 +1,52 @@
 {
   "Hitmarkers": {
     "Blue":{
-      "TL":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Blue/TopLeft.png",
-      "TR":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Blue/TopRight.png",
-      "BR":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Blue/BottomRight.png",
-      "BL":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Blue/BottomLeft.png"
+      "TL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Blue/TopLeft.png",
+      "TR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Blue/TopRight.png",
+      "BR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Blue/BottomRight.png",
+      "BL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Blue/BottomLeft.png"
     },
     "Cyan":{
-      "TL":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Cyan/TopLeft.png",
-      "TR":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Cyan/TopRight.png",
-      "BR":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Cyan/BottomRight.png",
-      "BL":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Cyan/BottomLeft.png"
+      "TL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Cyan/TopLeft.png",
+      "TR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Cyan/TopRight.png",
+      "BR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Cyan/BottomRight.png",
+      "BL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Cyan/BottomLeft.png"
     },
     "Green":{
-      "TL":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Green/TopLeft.png",
-      "TR":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Green/TopRight.png",
-      "BR":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Green/BottomRight.png",
-      "BL":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Green/BottomLeft.png"
+      "TL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Green/TopLeft.png",
+      "TR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Green/TopRight.png",
+      "BR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Green/BottomRight.png",
+      "BL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Green/BottomLeft.png"
     },
     "Orange":{
-      "TL":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Orange/TopLeft.png",
-      "TR":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Orange/TopRight.png",
-      "BR":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Orange/BottomRight.png",
-      "BL":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Orange/BottomLeft.png"
+      "TL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Orange/TopLeft.png",
+      "TR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Orange/TopRight.png",
+      "BR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Orange/BottomRight.png",
+      "BL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Orange/BottomLeft.png"
     },
     "Pink":{
-      "TL":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Pink/TopLeft.png",
-      "TR":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Pink/TopRight.png",
-      "BR":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Pink/BottomRight.png",
-      "BL":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Pink/BottomLeft.png"
+      "TL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Pink/TopLeft.png",
+      "TR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Pink/TopRight.png",
+      "BR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Pink/BottomRight.png",
+      "BL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Pink/BottomLeft.png"
     },
     "Purple":{
-      "TL":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Purple/TopLeft.png",
-      "TR":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Purple/TopRight.png",
-      "BR":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Purple/BottomRight.png",
-      "BL":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Purple/BottomLeft.png"
+      "TL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Purple/TopLeft.png",
+      "TR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Purple/TopRight.png",
+      "BR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Purple/BottomRight.png",
+      "BL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Purple/BottomLeft.png"
     },
     "Red":{
-      "TL":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Red/TopLeft.png",
-      "TR":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Red/TopRight.png",
-      "BR":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Red/BottomRight.png",
-      "BL":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Red/BottomLeft.png"
+      "TL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Red/TopLeft.png",
+      "TR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Red/TopRight.png",
+      "BR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Red/BottomRight.png",
+      "BL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Red/BottomLeft.png"
     },
     "Yellow":{
-      "TL":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Yellow/TopLeft.png",
-      "TR":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Yellow/TopRight.png",
-      "BR":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Yellow/BottomRight.png",
-      "BL":"https://github.com/FleaNafo/Rivals-Replacements/blob/dced2a276e88206b9815573ff8b9a4417521b700/Hitmarker/EDITS/Yellow/BottomLeft.png"
+      "TL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Yellow/TopLeft.png",
+      "TR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Yellow/TopRight.png",
+      "BR":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Yellow/BottomRight.png",
+      "BL":"https://raw.githubusercontent.com/FleaNafo/Rivals-Replacements/refs/heads/main/Hitmarker/EDITS/Yellow/BottomLeft.png"
     }
   }
 }
